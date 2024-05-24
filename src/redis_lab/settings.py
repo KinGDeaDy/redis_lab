@@ -1,7 +1,6 @@
 from typing import Final, TypedDict
 
 
-
 class RedisCredentials(TypedDict):
     host: str
     port: int
